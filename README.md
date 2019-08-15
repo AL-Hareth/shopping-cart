@@ -7,9 +7,9 @@ My first NodeJS app with MongoDB
 
 1- Install NodeJS from https://nodejs.org/
 
-2- Install MongoDB from https://www.mongodb.com/download-center
+2- Create directory in C: with name data and create db folder into it
 
-3- Create directory in C: with name data and create db folder into it
+3- Install MongoDB from https://www.mongodb.com/download-center
 
 4- Use the Terminal( CMD ) and write these commands:
  ```
