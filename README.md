@@ -9,14 +9,16 @@ My first NodeJS app with MongoDB
 
 2- Install MongoDB from https://www.mongodb.com/download-center
 
-3- Use the Terminal( CMD ) and write these commands:
+3- Create directory in C: with name data and create db folder into it
+
+4- Use the Terminal( CMD ) and write these commands:
  ```
   $ C:
   $ cd "Program Files"
   $ cd MongoDB\Server\3.0\bin
   $ mongod
 ```
-4- Use another Terminal( CMD ) to enter the "shopping" rout and write:
+5- Use another Terminal( CMD ) to enter the "shopping" rout and write:
 ```
   $ npm install
   $ cd seed
@@ -24,6 +26,6 @@ My first NodeJS app with MongoDB
   $ cd ..
   $ npm start
 ```
-5- Go to your browser and write: *localhost:3000*
+6- Go to your browser and write: *localhost:3000*
 
-6- Enjoy the program :)
+7- Enjoy the program :)
